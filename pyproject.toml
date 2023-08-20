@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "polities"
+version = "2.0.0"
+description = "Message templates for productive conversations"
+authors = ["Juxan <julyfortune101@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiogram = {version = "^3.0.0b6", extras = ["i18n", "redis"]}
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.0"
+pytest-asyncio = "^0.21.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

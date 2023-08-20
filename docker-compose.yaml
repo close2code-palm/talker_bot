@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+  redis:
+    image: redis:6-alpine
+    restart: "unless-stopped"
+    volumes:
+      - "~/polite_bot/volumes/redis-data:/data"
+    ports:
+      - "6379:6379"
+  bot:
+    build:
+      context: .
+    depends_on:
+      - redis
