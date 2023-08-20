@@ -1,0 +1,188 @@
+# English translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-08-20 23:14+0300\n"
+"PO-Revision-Date: 2023-08-20 23:14+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: polite_bot/keyboards.py:12
+msgid "Show my templates"
+msgstr "Show my templates"
+
+#: polite_bot/keyboards.py:13
+msgid "Add template"
+msgstr "Add template"
+
+#: polite_bot/keyboards.py:14
+msgid "Delete a phrase"
+msgstr "Delete a phrase"
+
+#: polite_bot/keyboards.py:15
+msgid "Change language"
+msgstr "Change language"
+
+#: polite_bot/keyboards.py:23
+msgid "English"
+msgstr "English"
+
+#: polite_bot/keyboards.py:24
+msgid "Russian"
+msgstr "Russian"
+
+#: polite_bot/keyboards.py:37
+msgid "Stop deletion"
+msgstr "Stop deletion"
+
+#: polite_bot/texts.py:10
+msgid "Be so kind "
+msgstr "Be so kind "
+
+#: polite_bot/texts.py:10
+msgid "Please excuse me "
+msgstr "Please excuse me "
+
+#: polite_bot/texts.py:10
+msgid "Would you be so kind "
+msgstr "Would you be so kind "
+
+#: polite_bot/texts.py:11
+msgid "Could you please "
+msgstr "Could you please "
+
+#: polite_bot/texts.py:11
+msgid "We would appreciate it if you would "
+msgstr "We would appreciate it if you would "
+
+#: polite_bot/texts.py:15
+msgid "Thank you so much for everything."
+msgstr "Thank you so much for everything."
+
+#: polite_bot/texts.py:15
+msgid "Thank you very much for your support."
+msgstr "Thank you very much for your support."
+
+#: polite_bot/texts.py:16
+msgid "Thank you, that was very kind of you. "
+msgstr "Thank you, that was very kind of you. "
+
+#: polite_bot/texts.py:16
+msgid "I sincerely thank you."
+msgstr "I sincerely thank you."
+
+#: polite_bot/texts.py:17
+msgid "I wouldn't have made it without you."
+msgstr "I wouldn't have made it without you."
+
+#: polite_bot/texts.py:21
+msgid "Dear sir "
+msgstr "Dear sir "
+
+#: polite_bot/texts.py:21
+msgid "Dear Gentleman "
+msgstr "Dear Gentleman "
+
+#: polite_bot/texts.py:21
+msgid "Dear Citizen "
+msgstr "Dear Citizen "
+
+#: polite_bot/texts.py:25
+msgid "I wish you a good day!"
+msgstr "I wish you a good day!"
+
+#: polite_bot/texts.py:25
+msgid "Incredibly glad to see you!"
+msgstr "Incredibly glad to see you!"
+
+#: polite_bot/texts.py:26
+msgid "Greetings from the bottom of my heart!"
+msgstr "Greetings from the bottom of my heart!"
+
+#: polite_bot/texts.py:26
+msgid "Hello, thanks for the contact!"
+msgstr "Hello, thanks for the contact!"
+
+#: polite_bot/texts.py:30
+msgid "Hope we meet again soon."
+msgstr "Hope we meet again soon."
+
+#: polite_bot/texts.py:30
+msgid "I was very happy to meet you!"
+msgstr "I was very happy to meet you!"
+
+#: polite_bot/texts.py:31
+msgid "I would like our communication to remain as warm"
+msgstr "I would like our communication to remain as warm"
+
+#: polite_bot/texts.py:41
+msgid "Eloquent pleases"
+msgstr "Eloquent pleases"
+
+#: polite_bot/texts.py:44
+msgid "Eloquent appeals"
+msgstr "Eloquent appeals"
+
+#: polite_bot/texts.py:48
+msgid "Eloquent goodbyes"
+msgstr "Eloquent goodbyes"
+
+#: polite_bot/texts.py:52
+msgid "Eloquent gratitude"
+msgstr ""
+
+#: polite_bot/texts.py:56
+msgid "Eloquent greetings"
+msgstr ""
+
+#: polite_bot/texts.py:60
+msgid "Bot chat info"
+msgstr ""
+
+#: polite_bot/texts.py:62
+msgid "💬 Bot chat appears here: @smart_abbot"
+msgstr ""
+
+#: polite_bot/routers/phrase_settings.py:19
+msgid "What do you want to do?"
+msgstr ""
+
+#: polite_bot/routers/phrase_settings.py:37
+msgid "Limit reached."
+msgstr ""
+
+#: polite_bot/routers/phrase_settings.py:40
+msgid "Please, enter new template text."
+msgstr ""
+
+#: polite_bot/routers/phrase_settings.py:48
+msgid "Your new phrase saved."
+msgstr ""
+
+#: polite_bot/routers/phrase_settings.py:54
+msgid "Choose a language"
+msgstr ""
+
+#: polite_bot/routers/phrase_settings.py:66
+msgid "Language set."
+msgstr ""
+
+#: polite_bot/routers/phrase_settings.py:77
+msgid "Choose phrase to delete"
+msgstr ""
+
+#: polite_bot/routers/phrase_settings.py:93
+msgid "Deleted"
+msgstr ""
+
