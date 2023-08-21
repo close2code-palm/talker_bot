@@ -34,6 +34,7 @@ WORKDIR code_root/
 
 COPY src /code_root/src
 COPY config.ini config.ini
+COPY locales locales
 
 #CMD ["ls", "-lsa"]
 ENV PYTHONPATH "${PYTHONPATH}:/code_root/src"
