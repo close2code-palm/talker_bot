@@ -176,8 +176,8 @@ msgid "Choose a language"
 msgstr "Выберите язык."
 
 #: polite_bot/routers/phrase_settings.py:66
-msgid "Language set."
-msgstr "Язык выбран."
+msgid "User inline search to refresh the cache."
+msgstr "Чтобы очистить кеш, введите символ в инлайн режиме."
 
 #: polite_bot/routers/phrase_settings.py:77
 msgid "Choose phrase to delete"

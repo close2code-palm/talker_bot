@@ -63,7 +63,7 @@ async def set_language(
         callback_data: Languages
 ):
     await i18n_middleware.set_locale(state, callback_data.lang)
-    await call.message.answer(_('Language set.'))
+    await call.message.answer(_('User inline search to refresh the cache.'))
     await call.answer()
 
 

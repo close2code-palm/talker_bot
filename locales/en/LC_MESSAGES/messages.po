@@ -175,7 +175,7 @@ msgid "Choose a language"
 msgstr ""
 
 #: polite_bot/routers/phrase_settings.py:66
-msgid "Language set."
+msgid "User inline search to refresh the cache."
 msgstr ""
 
 #: polite_bot/routers/phrase_settings.py:77
