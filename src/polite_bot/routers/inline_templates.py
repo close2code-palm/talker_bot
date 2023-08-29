@@ -17,7 +17,7 @@ async def handle_inline_call(inline: types.InlineQuery, repo: Repository):
     all_texts.extend(await repo.get_phrases(str(inline.from_user.id)))
     for text_set in all_texts:
         for text in text_set:
-            if text.startswith(inline.query):
+            if inline.query in text:
                 search_results.append(text)
 
     if inline.query == '' or not search_results:

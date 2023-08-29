@@ -21,111 +21,111 @@ msgstr ""
 
 #: polite_bot/keyboards.py:12
 msgid "Show my templates"
-msgstr "Показать шаблоны"
+msgstr "🗒 Показать шаблоны"
 
 #: polite_bot/keyboards.py:13
 msgid "Add template"
-msgstr "Добавить фразу"
+msgstr "➕ Добавить фразу"
 
 #: polite_bot/keyboards.py:14
 msgid "Delete a phrase"
-msgstr "Удалить фразу"
+msgstr "➖ Удалить фразу"
 
 #: polite_bot/keyboards.py:15
 msgid "Change language"
-msgstr "Сменить язык"
+msgstr "🚩 Сменить язык"
 
 #: polite_bot/keyboards.py:23
 msgid "English"
-msgstr "Английский"
+msgstr "🇺🇸 Английский"
 
 #: polite_bot/keyboards.py:24
 msgid "Russian"
-msgstr "Русский"
+msgstr "🇷🇺 Русский"
 
 #: polite_bot/keyboards.py:37
 msgid "Stop deletion"
-msgstr "Отменить удаление"
+msgstr "🛑 Отменить удаление"
 
 #: polite_bot/texts.py:10
 msgid "Be so kind "
-msgstr "Будьте так любезны "
+msgstr "😊 Будьте так любезны"
 
 #: polite_bot/texts.py:10
 msgid "Please excuse me "
-msgstr "Пожалуйста, извините меня, "
+msgstr "🥺 Пожалуйста, извините меня"
 
 #: polite_bot/texts.py:10
 msgid "Would you be so kind "
-msgstr "Не будете ли так добры "
+msgstr "☺️ Не будете ли так добры"
 
 #: polite_bot/texts.py:11
 msgid "Could you please "
-msgstr "Не могли бы Вы, пожалуйста, "
+msgstr "🙏🏼 Не могли бы Вы, пожалуйста"
 
 #: polite_bot/texts.py:11
 msgid "We would appreciate it if you would "
-msgstr "Мы будем рады если Вы "
+msgstr "😀 Мы будем рады если Вы"
 
 #: polite_bot/texts.py:15
 msgid "Thank you so much for everything."
-msgstr "Огромное Вам спасибо за всё."
+msgstr "☺️ Огромное Вам спасибо за всё."
 
 #: polite_bot/texts.py:15
 msgid "Thank you very much for your support."
-msgstr "Большое спасибо за Вашу поддержку."
+msgstr "☺️ Большое спасибо за Вашу поддержку."
 
 #: polite_bot/texts.py:16
 msgid "Thank you, that was very kind of you. "
-msgstr "Спасибо, очень благородно с Вашей стороны."
+msgstr "☺️ Спасибо, очень благородно с Вашей стороны."
 
 #: polite_bot/texts.py:16
 msgid "I sincerely thank you."
-msgstr "Я искренне благодарю Вас."
+msgstr "☺️ Я искренне благодарю Вас."
 
 #: polite_bot/texts.py:17
 msgid "I wouldn't have made it without you."
-msgstr "Без Вас я бы не справился."
+msgstr "☺️ Без Вас я бы не справился."
 
 #: polite_bot/texts.py:21
 msgid "Dear sir "
-msgstr "Дорогой "
+msgstr "🙂 Дорогой"
 
 #: polite_bot/texts.py:21
 msgid "Dear Gentleman "
-msgstr "Уважаемый господин "
+msgstr "🙂 Уважаемый господин"
 
 #: polite_bot/texts.py:21
 msgid "Dear Citizen "
-msgstr "Уважаемый гражданин "
+msgstr "🙂 Уважаемый гражданин"
 
 #: polite_bot/texts.py:25
 msgid "I wish you a good day!"
-msgstr "Желаю Вам хорошего дня!"
+msgstr "🤝 Желаю Вам хорошего дня!"
 
 #: polite_bot/texts.py:25
 msgid "Incredibly glad to see you!"
-msgstr "Чрезвычайно рад Вас видеть!"
+msgstr "🤝 Чрезвычайно рад Вас видеть!"
 
 #: polite_bot/texts.py:26
 msgid "Greetings from the bottom of my heart!"
-msgstr "Приветствую от чистого сердца!"
+msgstr "🤝 Приветствую от чистого сердца!"
 
 #: polite_bot/texts.py:26
 msgid "Hello, thanks for the contact!"
-msgstr "Привет, спасибо за контакт!"
+msgstr "🤝 Привет, спасибо за контакт!"
 
 #: polite_bot/texts.py:30
 msgid "Hope we meet again soon."
-msgstr "Надеюсь, скоро спишемся снова."
+msgstr "🤝 Надеюсь, скоро спишемся снова."
 
 #: polite_bot/texts.py:30
 msgid "I was very happy to meet you!"
-msgstr "Был очень рад пообщаться с Вами!"
+msgstr "🤝 Был очень рад пообщаться с Вами!"
 
 #: polite_bot/texts.py:31
 msgid "I would like our communication to remain as warm"
-msgstr "Я хотел бы чтобы наше общение оставалось таким же тёплым."
+msgstr "🤝 Я хотел бы чтобы наше общение оставалось таким же тёплым."
 
 #: polite_bot/texts.py:41
 msgid "Eloquent pleases"
@@ -157,33 +157,33 @@ msgstr "💬 Чат с ботом тут: @smart_abbot"
 
 #: polite_bot/routers/phrase_settings.py:19
 msgid "What do you want to do?"
-msgstr "Что вы бы хотели сделать?"
+msgstr "🤔 Что вы бы хотели сделать?"
 
 #: polite_bot/routers/phrase_settings.py:37
 msgid "Limit reached."
-msgstr "Достигнут лимит."
+msgstr "🏋🏽‍♂️ Достигнут лимит."
 
 #: polite_bot/routers/phrase_settings.py:40
 msgid "Please, enter new template text."
-msgstr "Пожалуйста, введите тест новой фразы."
+msgstr "🔡 Пожалуйста, введите тест новой фразы."
 
 #: polite_bot/routers/phrase_settings.py:48
 msgid "Your new phrase saved."
-msgstr "Ваша новая фраза сохранена."
+msgstr "✅ Ваша новая фраза сохранена."
 
 #: polite_bot/routers/phrase_settings.py:54
 msgid "Choose a language"
-msgstr "Выберите язык."
+msgstr "🗣 Выберите язык."
 
 #: polite_bot/routers/phrase_settings.py:66
 msgid "User inline search to refresh the cache."
-msgstr "Чтобы очистить кеш, введите символ в инлайн режиме."
+msgstr "❗️ Чтобы очистить кеш, введите символ в инлайн режиме."
 
 #: polite_bot/routers/phrase_settings.py:77
 msgid "Choose phrase to delete"
-msgstr "Выберите фразу для удаления."
+msgstr "🗑 Выберите фразу для удаления."
 
 #: polite_bot/routers/phrase_settings.py:93
 msgid "Deleted"
-msgstr "Удалено."
+msgstr "❌ Удалено."
 
