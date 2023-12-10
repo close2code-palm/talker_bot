@@ -3,6 +3,7 @@ version: "3.9"
 services:
   redis:
     image: redis:6-alpine
+    container_name: redis_host
     restart: "unless-stopped"
     volumes:
       - "~/polite_bot/volumes/redis-data:/data"

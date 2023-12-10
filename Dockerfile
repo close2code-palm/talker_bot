@@ -1,4 +1,4 @@
-FROM python:3.11-slim as python-base
+FROM python:3.11-bullseye as python-base
 LABEL authors="Juxan"
 
 ENV PYTHONUNBUFFERED=1 \
@@ -40,5 +40,5 @@ COPY locales locales
 ENV PYTHONPATH "${PYTHONPATH}:/code_root/src"
 
 #CMD ["python", "src/polite_bot.py"]
-CMD python src/polite_bot.py
+CMD python -u src/polite_bot.py
 #ENTRYPOINT ["", "-b"]
