@@ -1,4 +1,5 @@
 import asyncio
+import logging
 from contextlib import suppress
 
 from aiogram import Dispatcher, Bot
@@ -7,12 +8,14 @@ from aiogram.types import BotCommand
 from aiogram.utils.i18n import I18n, FSMI18nMiddleware, ConstI18nMiddleware, SimpleI18nMiddleware
 from redis.asyncio import ConnectionPool, Redis
 
+from src.polite_bot.bot_loger import log
 from src.polite_bot.middleware import DatabaseMiddleware
 from src.polite_bot.routers import inline_templates, phrase_settings
 from src.polite_bot.config import read_config
 
 
 async def main():
+    log(logging.INFO)
     config = read_config('config.ini')
     pool = ConnectionPool(host=config.redis.host, db=config.redis.db_name)
     storage_con = Redis(connection_pool=pool)

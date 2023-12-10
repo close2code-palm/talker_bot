@@ -19,7 +19,6 @@ async def handle_inline_call(inline: types.InlineQuery, repo: Repository):
         for text in text_set:
             if inline.query in text:
                 search_results.append(text)
-
     if inline.query == '' or not search_results:
         return await inline.answer(menu_result())
     inline_result = [InlineQueryResultArticle(
